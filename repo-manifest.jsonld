@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google/eslint-config-google/commit/0273839fbd6f934258886ca8f875ea4b101a51a6",
       "git:hexsha": "0273839fbd6f934258886ca8f875ea4b101a51a6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T08:52:31.532844+00:00"
     },
     {
       "@id": "https://repolex.ai/r/google/eslint-config-google/commit/766265cb3298b3f0cb8717459bd76afd3d7571e0",
