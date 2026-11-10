@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "google",
+  "repo": "eslint-config-google",
+  "versions": [
+    {
+      "commit": "0273839fbd6f934258886ca8f875ea4b101a51a6",
+      "parsed_at": "2026-11-10T08:49:57.387699+00:00",
+      "filetree": "filetree/0273839fbd6f934258886ca8f875ea4b101a51a6.nq.gz",
+      "blobs": [
+        "blob/99989d76c9dc23b367aab5f0a9ea9a00b516947f.nq.gz",
+        "blob/c6c8b3621938a4691225a870a59bf382af1883dd.nq.gz",
+        "blob/176a458f94e0ea5272ce67c36bf30b6be9caf623.nq.gz",
+        "blob/e891ca4ec9a46c21990fb358619cf592b9b439e1.nq.gz",
+        "blob/f38fc6e24b4cf34b0b19a0dd2ee41f019f7d57dc.nq.gz",
+        "blob/3c3629e647f5ddf82548912e337bea9826b434af.nq.gz",
+        "blob/57a79ff25bae4258629c13b4e56138dd687331f2.nq.gz",
+        "blob/11038e4b6c4c208fc2697ea43055b79d4072f4a1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
